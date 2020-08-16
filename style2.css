@@ -1,0 +1,29 @@
+h1{
+    color: crimson;
+    
+    font-family: Cambria;
+}
+
+p{
+    font-size:larger;
+    color:black   
+}
+body{
+background-size: cover;
+ background-image: url("About-Us-main.png");   
+}
+h3{
+
+    color:red;
+}
+.header{
+        display:flex;
+    justify-content:space-evenly;
+ 
+}
+.header a{
+    margin-top:20px;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+        }

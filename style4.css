@@ -1,0 +1,26 @@
+h1{
+    color: crimson;
+    
+    font-family: Cambria;
+}
+
+
+body{
+background-size: cover;
+ background-image: url("contact.jpg");   
+}
+h2{
+
+    color:greenyellow;
+}
+.header{
+    
+    display:flex;
+    justify-content:space-evenly;
+ 
+}
+.header a{
+    margin-top:20px;
+    font-size: 30px;
+    text-decoration: none;
+        }

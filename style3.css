@@ -1,0 +1,41 @@
+.header{
+background-color: black;
+display:flex;
+ justify-content:space-evenly;
+color: red;
+text-align: center;
+
+
+}
+
+body{
+   
+background-image:url("web.jpg");
+background-size: cover;
+font-size: 15px;
+    }
+    h1{
+        font-size: 25px;
+    }
+    h3{
+     
+        color: white;
+    }
+    h2{
+       
+        color:greenyellow;
+        text-align: left;
+    
+    }
+    .header a{
+        margin-top:20px;
+        color: white;
+        font-size: 20px;
+        text-decoration: none;
+            }
+            .grid{
+                display: flex;
+                flex-wrap:wrap;
+                justify-content: space-evenly;
+                margin:10px;
+            }
